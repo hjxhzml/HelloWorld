@@ -1,5 +1,6 @@
 package com.buaa.example;
 
+
 public class HelloWord {
 
 	public static void main(String[] args) {
@@ -9,4 +10,8 @@ public class HelloWord {
 
 	}
 
+}
+
+class Test1{
+	
 }
